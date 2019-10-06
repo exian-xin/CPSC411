@@ -384,7 +384,7 @@ public class CPSC411_HW1 extends Activity {
         lp.setMargins(2,2,2,2);
         string5_2.setPadding(10, 0, 10, 0);
         string5_2.setLayoutParams(lp);
-        string5_2.setText("System.out.println(greeting + \", World!\"");
+        string5_2.setText("System.out.println(greeting + \", World!\")");
         string5_2.setBackgroundColor(Color.CYAN);
         string5_2.setTextSize(20);
         string5_2.setTextColor(Color.BLACK);
